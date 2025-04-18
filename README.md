@@ -16,8 +16,8 @@
 </tr>
 </table>
 
-✉️[Boyu Ma*](mby9702@163.com),
-✉️[Jiaxiao Shi*](jiaxiao364@gmail.com),
+✉️[Boyu Ma*](mailto:mby9702@163.com),
+✉️[Jiaxiao Shi*](mailto:jiaxiao364@gmail.com), 
 Yiming Ji,
 and Zhengpu Wang.
 
@@ -60,6 +60,6 @@ There are two version
 ## 🌍 Collaboration & Support
 <a id="Collaboration--Support"></a>
 
-💡 If you have any qustions regarding the conceptualization of ECO, please contact [Boyu Ma](mby9702@163.com). For implemention, programming and simulation problems, please contact [Jiaxiao Shi](jiaxiao364@gmail.com).
+💡 If you have any qustions regarding the conceptualization of ECO, please contact [Boyu Ma](mailto:mby9702@163.com). For implemention, programming and simulation problems, please contact [Jiaxiao Shi](mailto:jiaxiao364@gmail.com).
 
 🤝 Please feel feel to contact us if you wish to work together for future studies or applications, we are open to all forms of collaborative engagements.
