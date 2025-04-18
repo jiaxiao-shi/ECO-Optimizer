@@ -46,7 +46,7 @@ and Zhengpu Wang.
 
 Run the following command to download our code:
 ```
-git clone
+[git clone](https://github.com/jiaxiao-shi/ECO-Optimizer.git)
 ```
 Our code are developed in **Matlab2023a**, please make sure the API and syntax are compatible with your software.
 
