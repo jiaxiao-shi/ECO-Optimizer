@@ -3,12 +3,36 @@
 
 <div align="center">
 
-<table>
+<!-- <table>
 <tr>
 <td valign="top">
   <strong>Accepted by <em>Expert Systems with Applications</em></strong>
 </td>
 <td valign="top" width="60">
+  <a href="https://arxiv.org/abs/2503.21860">
+    <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&color=B31B1' alt='Paper PDF'>
+  </a>
+</td>
+</tr>
+</table> -->
+<!-- <table style="border: none; border-collapse: collapse;">
+<tr>
+<td valign="top">
+  <strong>Accepted by <em>Expert Systems with Applications</em></strong>
+</td>
+<td valign="top" width="60">
+  <a href="https://arxiv.org/abs/2503.21860">
+    <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&color=B31B1' alt='Paper PDF'>
+  </a>
+</td>
+</tr>
+</table> -->
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td valign="top" style="border: none;">
+  <strong>Accepted by <em>Expert Systems with Applications</em></strong>
+</td>
+<td valign="top" width="70" style="border: none;">
   <a href="https://arxiv.org/abs/2503.21860">
     <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&color=B31B1' alt='Paper PDF'>
   </a>
