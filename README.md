@@ -82,7 +82,7 @@ To properly run **ECO** on your computer, please refer to [Usage](#Usage).
 There are two version 
 
 
-## 🔎 Results
+## 📝 Results
 <a id="Results"></a>
 There are two version 
 
