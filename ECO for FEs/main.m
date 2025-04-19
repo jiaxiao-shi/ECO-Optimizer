@@ -14,7 +14,7 @@ clc;
 
 % Parameters setting
 Pop_size = 30;
-Run_times = 1;
+Run_times = 25;
 
 % Create result directory if it doesn't exist
 if ~exist('./results', 'dir')

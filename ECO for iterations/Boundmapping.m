@@ -1,13 +1,13 @@
-%___________________________________________________________________%
-%  Ecological Cycle Optimizer (ECO) source codes version 1.0         %
-%                                                                   %
-%  Developed in MATLAB R2021a                                       %
-%                                                                   %
-%  Author and programmer: Boyu Ma                                   %
-%                                                                   %
-%         e-Mail: mby9702@163.com                                   %
-%                                                                   %
-%___________________________________________________________________%
+%------------------------------------------------------------------------------------------------------------
+%  Ecological Cycle Optimizer: A novel nature-inspired metaheuristic algorithm for global optimization.
+%  
+%  Author: Boyu Ma*, Jiaxiao Shi*, Yiming Ji, Zhengpu Wang
+%  
+%  Programmer: Boyu Ma (mby9702@163.com), Jiaxiao Shi (jiaxiao364@gmail.com)
+%                                                                   
+%  Developed in Matlab2023a                                                                                                     
+%------------------------------------------------------------------------------------------------------------
+
 
 % This function transforms the individual solution beyond the feasible region into the search space boundaries.
 
