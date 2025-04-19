@@ -40,28 +40,29 @@
 </tr>
 </table> -->
 
-<a href="https://github.com/jiaxiao-shi/ECO-Optimizer.git">
+<!-- <a href="https://github.com/jiaxiao-shi/ECO-Optimizer.git">
   <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&color=B31B1' alt='Paper PDF'>
-</a>
+</a> -->
 
-<strong>Accepted by <em>Expert Systems with Applications</em></strong>
+Submitted to <strong><em>Expert Systems with Applications</em></strong>
+<!-- <strong>Accepted by <em>Expert Systems with Applications</em></strong> -->
 
 
 ✉️[Boyu Ma*](mailto:mby9702@163.com), ✉️[Jiaxiao Shi*](mailto:jiaxiao364@gmail.com),  Yiming Ji and Zhengpu Wang.
 
-*State Key Laboratory of Robotics and Systems, Harbin Institute of Technology*
+<strong><em>State Key Laboratory of Robotics and Systems, Harbin Institute of Technology</em></strong>
 
 <!-- <hr style="height:4px; border-width:0; background-color:#E6F2FF"> -->
-<hr style="height:4px; border-width:0; background-color:#B0E0E6">
+<!-- <hr style="height:4px; border-width:0; background-color:#B0E0E6"> -->
 <!-- <hr style="height:4px; border-width:0; background-color:#ADD8E6"> -->
-<!-- <hr style="height:4px; border-width:0; background-color:#AFEEEE"> -->
+<hr style="height:4px; border-width:0; background-color:#AFEEEE">
 <!-- <hr style="height:4px; border-width:0; background-color:#D4F1F9"> -->
 <!-- <hr style="height:4px; border-width:0; background-color:#0000FF"> -->
 
 </div>
 
 <p align="center">
-    <img src="assets/Ecosystem.jpg" alt="teaser" width="100%">
+  <img src="assets/Ecosystem.jpg" alt="teaser" width="100%">
 </p>
 
 ## 📚 Table of Contents
@@ -69,6 +70,7 @@
 2. [Usage](#Usage)
 3. [Results](#Results)
 4. [Collaboration & Support](#Collaboration--Support)
+5. [Ciatation](#Ciatation)
 
 ## 🛠️ Installation
 <a id="Installation"></a>
