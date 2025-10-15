@@ -44,7 +44,7 @@
   <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&color=B31B1' alt='Paper PDF'>
 </a> -->
 
-Submitted to <strong><em>Expert Systems with Applications</em></strong>
+<!-- Submitted to <strong><em>Expert Systems with Applications</em></strong> -->
 <!-- <strong>Accepted by <em>Expert Systems with Applications</em></strong> -->
 
 
