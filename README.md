@@ -221,7 +221,7 @@ P_carnivore = 0.3;
 
 In our experiments.
 
-For detailed information, please refer to our [paper](https://github.com/jiaxiao-shi/ECO-Optimizer.git).
+For detailed information, please refer to our [paper](https://arxiv.org/abs/2508.20458).
 
 ## 🌍 Collaboration & Support
 <a id="Collaboration--Support"></a>
