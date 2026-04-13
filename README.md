@@ -52,12 +52,23 @@
 
 <strong><em>State Key Laboratory of Robotics and Systems, Harbin Institute of Technology</em></strong>
 
+<p align="center">
+    <a href="https://arxiv.org/abs/2508.20458">
+        <img src='https://img.shields.io/badge/Paper-red?style=for-the-badge&labelColor=B31B1B&color=B31B1B' alt='Paper PDF'></a>
+    <!-- <a href='https://maniptrans.github.io/'>
+        <img src='https://img.shields.io/badge/Project-orange?style=for-the-badge&labelColor=D35400' alt='Project Page'></a> -->
+    <!-- <a href='https://huggingface.co/datasets/LiKailin/DexManipNet'>
+        <img src='https://img.shields.io/badge/Dataset-orange?style=for-the-badge&labelColor=FFD21E&color=FFD21E' alt='Dataset'></a> -->
+    <!-- <a href=""><img alt="youtube views" src="https://img.shields.io/badge/Video-red?style=for-the-badge&logo=youtube&labelColor=ce4630&logoColor=red"/></a> -->
+</p>
+
 <!-- <hr style="height:4px; border-width:0; background-color:#E6F2FF"> -->
 <!-- <hr style="height:4px; border-width:0; background-color:#B0E0E6"> -->
 <!-- <hr style="height:4px; border-width:0; background-color:#ADD8E6"> -->
 <hr style="height:4px; border-width:0; background-color:#AFEEEE">
 <!-- <hr style="height:4px; border-width:0; background-color:#D4F1F9"> -->
 <!-- <hr style="height:4px; border-width:0; background-color:#0000FF"> -->
+
 
 </div>
 
